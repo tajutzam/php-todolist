@@ -1,5 +1,5 @@
 <?php
-$host = "172.31.12.226";  // Ganti dengan endpoint RDS
+$host = "todolistdb.cbyieygqmvuh.ap-southeast-2.rds.amazonaws.com";  // Ganti dengan endpoint RDS
 $dbname = "todolist_db";  // Nama database yang digunakan
 $username = "root";  // Username RDS kamu
 $password = "Rahsia123.";
